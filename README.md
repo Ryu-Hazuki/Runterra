@@ -1,3 +1,3 @@
 # Runterra
 
-Tell zuckerburger to mail my cheque in the morning!
+A place to store code i'm working on, and share it with others ^.^!!
