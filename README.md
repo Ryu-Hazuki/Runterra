@@ -1,3 +1,3 @@
 # Runterra
 
-A place to store code i'm working on, and share it with others ^.^!!
+A place to store code I'm working on, and share it with others ^.^!!
